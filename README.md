@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @1gen1. I go online as 1genius much much more often!
-- 👀 I’m interested in art, cats, basketball, and (American) football. 🎨🐈🏀🏈
-- 🌱 I’ll be going to university in September 2021, getting a degree in Geomatics Engineering.
-- 💞️ I’m looking to collaborate on... nothing! I don't know anything about coding, sorry! 😅
-- 📫 Twitter: 1gen1us1, Twitch: 1geniusone, Steam: 1genius1, speedrun.com: 1genius1, Reddit: NNul
+- Hi, I’m @1gen1. I go online as 1genius1 much much more often!
+- Studing engineering at university.
+- Learning Python.
+- Twitter: 1gen1us1, Twitch: 1geniusone, Steam: 1genius1, speedrun.com: 1genius1, Reddit: NNul
 Look for the cursed Kirby with a red football helmet!
 
 <!---
