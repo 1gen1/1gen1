@@ -1,8 +1,7 @@
-- Hi, I’m @1gen1. I go online as 1genius1 much much more often!
-- Studing engineering at university.
+- Hi, I’m @1gen1. I go online as 1genius1 much much more often.
+- Studing geomatics engineering at university.
 - Learning Python.
-- Twitter: 1gen1us1, Twitch: 1geniusone, Steam: 1genius1, speedrun.com: 1genius1, Reddit: NNul
-Look for the cursed Kirby with a red football helmet!
+- Twitter: 1gen1us1, Twitch: 1geniusone, Steam: 1genius1, speedrun.com: 1genius1, Reddit: NNul.
 
 <!---
 1gen1/1gen1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
